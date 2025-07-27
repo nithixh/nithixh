@@ -28,7 +28,7 @@
 
 ### 📈 GitHub Stats
 
-![Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithixh&show_icons=true&theme=github_dark&hide_border=true)
+![Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithixh&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true)
 
 ---
 
