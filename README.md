@@ -19,6 +19,6 @@
 
 ### 📫 Connect with me:
 - ✉️ knithish938@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nithish-kumar-349942325/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nithish-kumar-t-s-349942325/)
 - 📸 [Instagram](https://www.instagram.com/nithishx_o/)
 
