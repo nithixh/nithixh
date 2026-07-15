@@ -6,14 +6,13 @@
 🌱 Currently working on small projects that solve real-world problems.
 
 🔧 Exploring:
-- 🔹 Python, C, C++, and Java
+- 🔹 Python, C++
 - 🔹 Logic building through mini projects
 - 🔹 Problem solving using real-life scenarios
 
 💡 Interests:
-- Full-stack development
-- Ethical hacking & cybersecurity fundamentals
-- Minimalist UIs and real-time systems
+- Competitive Programming
+- Backend Development
 
 ---
 
