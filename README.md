@@ -56,13 +56,7 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-nithixh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nithixh/)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-nithixh-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nithixh)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-nithixh-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nithixh)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-nithixh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nithixh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-nithixh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nithixh/) [![Codeforces](https://img.shields.io/badge/Codeforces-nithixh-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nithixh) [![CodeChef](https://img.shields.io/badge/CodeChef-nithixh-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nithixh) [![GeeksforGeeks](https://img.shields.io/badge/GFG-nithixh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nithixh)
 
 </div>
 
