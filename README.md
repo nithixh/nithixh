@@ -106,11 +106,11 @@
 
 <div align="center">
 
-### 👀 Profile Views
+### Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=nithixh&style=for-the-badge&color=7C3AED"/>
 
-**"Code. Learn. Repeat."** 🚀
+**"Code. Learn. Repeat."**
 
 </div>
 
