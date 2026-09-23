@@ -20,4 +20,3 @@
 - ✉️ knithish938@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nithixh/)
 - 📸 [Instagram](https://www.instagram.com/nith1xh/)
-
