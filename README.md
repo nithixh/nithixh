@@ -88,10 +88,14 @@
 
 ---
 
-## 📈 Contribution Graph
+<h2>📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithixh&theme=tokyo-night&hide_border=true&area=true&custom_title=Nithish's%20Contribution%20Graph" width="95%"/>
+  <img
+    src="https://raw.githubusercontent.com/nithixh/nithixh/activity-graph/activity-graph.svg"
+    alt="Nithish's GitHub Activity"
+    width="95%"
+  />
 </p>
 
 ---
