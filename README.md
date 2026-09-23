@@ -5,7 +5,7 @@
 
 # Hi 👋 I'm Nithish Kumar
 
-### 💻 Student • Backend Developer • Competitive Programmer
+### Student • Backend Developer • Competitive Programmer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Knight+on+LeetCode+⚔️;Python+%7C+C%2B%2B+Developer;Backend+Development+Enthusiast;Always+Building+Something+Cool+🚀"/>
 
@@ -13,17 +13,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 B.Tech Information Technology Student
-- 🌱 Currently building **real-world backend projects**
-- 💡 Love solving problems through **DSA & Competitive Programming**
-- 🔥 Exploring **Python, C++, FastAPI & PostgreSQL**
-- ⚡ Fun fact: I enjoy turning everyday problems into coding projects.
+- B.Tech Information Technology Student
+- Currently building **real-world backend projects**
+- Love solving problems through **DSA & Competitive Programming**
+- Exploring **Python, C++, FastAPI & PostgreSQL**
+- Fun fact: I enjoy turning everyday problems into coding projects.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:knithish938@gmail.com">
@@ -42,7 +42,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 🏆 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
@@ -68,8 +68,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="./profile/stats.svg" height="170" />
   <img src="./profile/top-langs.svg" height="170" />
@@ -80,7 +78,7 @@
 
 ---
 
-## ⚔️ LeetCode Progress
+## LeetCode Progress
 
 <p align="center">
   <img src="https://leetcode-stats-six.vercel.app/api?username=nithixh&theme=dark" alt="LeetCode Stats"/>
@@ -88,7 +86,7 @@
 
 ---
 
-<h2>📈 GitHub Activity</h2>
+<h2> GitHub Activity</h2>
 
 <p align="center">
   <img
@@ -99,8 +97,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nithixh/nithixh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
