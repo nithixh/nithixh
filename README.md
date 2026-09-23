@@ -100,7 +100,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nithixh/nithixh/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/nithixh/nithixh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 </p>
 
 > **Note:** The snake animation works only after enabling a GitHub Action in your profile repository.
